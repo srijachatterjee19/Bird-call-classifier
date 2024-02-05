@@ -1,4 +1,4 @@
-# Bird-call-classifier
+# Bird-call-classifier 🐦
 
 In recent times, there has been significant interest in the classification of bird sounds, primarily due to its diverse applications in fields such as ornithology, biodiversity monitoring, and soundscape analysis. A study was conducted to examine the application of deep learning models for the automated classification of bird sounds utilizes deep learning architectures, including Convolutional Neural Networks (CNNs) and Long Term Short Term Memory (LSTM). For training and evaluating the models, audio recordings from 10 commonly found bird species in Britain were used. Mel-Frequency Cepstral Coefficients (MFCCs) were utilized as the feature extraction technique for the models. The best-performing model achieved an impressive accuracy of 99%.
 
